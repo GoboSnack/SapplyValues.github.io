@@ -14,13 +14,13 @@ questions =  [
     {"id": 13, "question": "Class is the primary division of society.", "effects": {"right": -1}},
     {"id": 14, "question": "Economic inequality is too high in the world.", "effects": {"right": -1}},
     {"id": 15, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 0}},
-    {"id": 19, "question": "Society requires structure and bureaucracy in order to function.", "effects": {"auth": 1}},
-    {"id": 21, "question": "In times of crisis, safety becomes more important than civil liberties.", "effects": {"auth": 1}},
-    {"id": 23, "question": "The government should be less involved in the day to day life of its citizens.", "effects": {"auth": -1}},
-    {"id": 24, "question": "Without democracy, a society is nothing.", "effects": {"auth": -1}},
-    {"id": 27, "question": "The government should only enforce law.", "effects": {"auth": -1}},
-    {"id": 29, "question": "State schools are a bad idea because our state shouldn't be influencing our children.", "effects": {"auth": -1}},
-    {"id": 31, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"prog": 1}},
-    {"id": 41, "question": "The death penalty should exist for certain crimes.", "effects": {"prog": -1}},
-    {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
+    {"id": 16, "question": "Society requires structure and bureaucracy in order to function.", "effects": {"auth": 1}},
+    {"id": 17, "question": "In times of crisis, safety becomes more important than civil liberties.", "effects": {"auth": 1}},
+    {"id": 18, "question": "The government should be less involved in the day to day life of its citizens.", "effects": {"auth": -1}},
+    {"id": 19, "question": "Without democracy, a society is nothing.", "effects": {"auth": -1}},
+    {"id": 20, "question": "The government should only enforce law.", "effects": {"auth": -1}},
+    {"id": 21, "question": "State schools are a bad idea because our state shouldn't be influencing our children.", "effects": {"auth": -1}},
+    {"id": 22, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"prog": 1}},
+    {"id": 23, "question": "The death penalty should exist for certain crimes.", "effects": {"prog": -1}},
+    {"id": 24, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
 ];
