@@ -1,5 +1,5 @@
 questions =  [
-    {"id": 0, "question": "Freedom of business is the best practical way a society can prosper.", "effects": {"right": 1}},
+    {"id": 0, "question": "Freedom of business is the best practical way a society can prosper.", "effects": {"auth": -1}},
     {"id": 1, "question": "Charity is a better way of helping those in need than social welfare.", "effects": {"right": 1}},
     {"id": 2, "question": "Wages are always fair, as employers know best what a worker's labour is worth.", "effects": {"right": 1}},
     {"id": 3, "question": "It is \"human nature\" to be greedy.", "effects": {"right": 1}},
@@ -14,7 +14,7 @@ questions =  [
     {"id": 12, "question": "All industry and the bank should be nationalised.", "effects": {"right": -1}},
     {"id": 13, "question": "Class is the primary division of society.", "effects": {"right": -1}},
     {"id": 14, "question": "Economic inequality is too high in the world.", "effects": {"right": -1}},
-    {"id": 15, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 1}},
+    {"id": 15, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 0}},
     {"id": 16, "question": "Authority figures, if morally correct, are a good thing for society.", "effects": {"auth": 1}},
     {"id": 17, "question": "Strength is necessary for any government to succeed.", "effects": {"auth": 1}},
     {"id": 18, "question": "Only the government can fairly and effectively regulate organisations.", "effects": {"auth": 1}},
